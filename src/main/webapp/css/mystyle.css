@@ -1,0 +1,17 @@
+body {
+  /* Define styles for the body element if needed */
+}
+
+.primary-background{
+  background-color: #2196F3 !important;
+}
+.bold-red-text {
+    font-weight: bold;
+    color: red;
+    background-color: #f0f0f0; /* Optional: You can set the background color for the code box. */
+    padding: 10px; /* Optional: Add padding to the code box. */
+    border: 1px solid #ccc; /* Optional: Add a border to the code box. */
+    border-radius: 5px; /* Optional: Round the corners of the code box. */
+}
+
+
